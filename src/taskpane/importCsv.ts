@@ -12,10 +12,10 @@ function generateHTMLFromFile(fileContent: string) {
 
     return entries.map(entry => {
         let components: Array<string> = splitEntry(entry);
-        let date = components[0];
-        let content = components[1];
+        let date: string = components[0];
+        let content: string = components[1];
 
-        return [date, `<p>` + `${content}` + `</p>`]
+        return [date, `<p>${content}</p>`]
     });
 }
 
