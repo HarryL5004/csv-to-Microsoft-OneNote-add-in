@@ -1,1 +1,1 @@
-# csv-to-OneNote-add-in
+# Csv-to-Microsoft-OneNote-add-in
