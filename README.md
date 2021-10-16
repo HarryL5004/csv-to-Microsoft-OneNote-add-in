@@ -1,5 +1,4 @@
 # Csv-to-Microsoft-OneNote-add-in
----
 
 ## Purpose
 Create Microsoft OneNote pages for each record in a csv file automatically with a simple Microsoft Office add-in. Modifications are made on top of the starter project.
